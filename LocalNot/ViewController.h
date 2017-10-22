@@ -13,6 +13,7 @@
 
 - (IBAction)stop:(UIButton *)sender;
 - (IBAction)start:(UIButton *)sender;
+- (IBAction)switch:(UISwitch *)sender;
 
 @end
 
